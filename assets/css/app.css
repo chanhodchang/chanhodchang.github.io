@@ -68,6 +68,18 @@ footer a {
   box-shadow:0 8px 17px 2px rgba(152,152,152,0.14),0 3px 14px 2px rgba(152,152,152,0.12),0 5px 5px -3px rgba(152,152,152,0.2);
 }
 
+.employment-container {
+  padding: 60px 0;
+}
+
+.employment-item {
+  padding: 20px 0;
+}
+
+.employment-p {
+  padding-bottom: 20px;
+}
+
 .education-container {
   padding: 60px 0;
 }
@@ -79,14 +91,17 @@ footer a {
 .container-color, .container-dark {
   padding: 100px 0;
   color: #fff;
+  width: 100%;
 }
 
 .container-color {
   background-color: #328eff;
+  width: 100%;
 }
 
 .container-dark {
   background-color: #343a40;
+  width: 100%;
 }
 
 .card-title {
